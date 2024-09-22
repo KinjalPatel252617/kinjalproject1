@@ -1,0 +1,39 @@
+body{
+	background-color: rgb(202, 231, 249);
+}
+
+p{
+	font-size: 120%; color:rgb(0, 0, 0);
+}
+
+figure img{
+	height: 30%;
+	width: 30%;
+	display: block; 
+	margin: auto;
+}
+/* .centertext{
+	text-align: center;
+} */
+.centerlink{
+	text-align: center;	
+}
+iframe{
+	display: block; 
+	margin: auto;
+}
+a:hover{
+	color: blue;
+}
+a:active{
+	color: aqua;
+}
+/* figure{
+	float: left;
+	text-align: center;
+	font-style: italic;
+	font-size: smaller;
+	text-indent: 0;
+	border: thin rgb(252, 243, 206) solid;
+	padding-top: 100;
+} */
